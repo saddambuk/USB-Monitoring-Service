@@ -25,16 +25,16 @@ This tool NSSM we used to convert an executable file (.exe) into a Windows servi
    - Open a command prompt as an administrator and navigate to the directory where you extracted NSSM.
    - (Run as Administrator) the following command to install your executable as a service:
      ```
-     nssm install YourServiceName "C:\path\to\your\executable.exe"
+     nssm.exe install YourServiceName "C:\path\to\your\executable.exe"
      ```
-![install service ](Capture.JPG)
+![install service ](Picture/Capture.JPG)
 Replace `YourServiceName` with the name you want to give your service and `C:\path\to\your\executable.exe` with the path to your executable.
 
 Run the service 
 ```sh
 nssm.exe start service_name
 ```
-![START SERVICE ](Service_Start_Command.JPG)
+![START SERVICE ](Picture/Service_Start_Command.JPG)
 
 ## Log File Description
 The USB Monitoring Service logs events related to USB devices such as insertion, file copying to and from USB devices, and removal. Below is an example of the log file output which provides detailed information about each event:
@@ -49,7 +49,7 @@ The USB Monitoring Service logs events related to USB devices such as insertion,
 
 ### Example Log File Output
 
-![Example Log File](log_simple.png)
+![Example Log File](Picture/log_simple.png)
 
 *This example showcases typical entries you would find in the log file. Each entry provides insights into USB device interactions with the system, capturing critical details for security and monitoring purposes.*
 
@@ -64,3 +64,15 @@ The log files for the USB Monitoring Service are stored in the `usb_log` directo
 
 This naming convention ensures that log files are organized chronologically, making it easy to track and analyze historical USB device activity.
 
+## Support Development
+
+If you've found this project useful and want to contribute to its ongoing development, please consider making a donation. Your support helps ensure the project remains maintained and receives updates.
+
+**Pay What You Can:** Your donation, no matter the amount, is invaluable. It helps sustain the project, fuels future enhancements, and shows appreciation for the effort put into it.
+
+Your generosity enables this project to grow and improve. Thank you for considering supporting this project!
+
+### IBAN (International Bank Account Number)
+```sh
+PK31MEZN0008110108446179
+```

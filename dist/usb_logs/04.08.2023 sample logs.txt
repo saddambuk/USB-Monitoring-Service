@@ -1,0 +1,111 @@
+Copied Main folder name: System Volume Information -----> Destination drive: D: (Size: 88 bytes)
+
+Number of files in folder: 2
+1: WPSettings.dat -----> Destination drive: D: (Size: 12 bytes)
+2: IndexerVolumeGuid -----> Destination drive: D: (Size: 76 bytes)
+
+Copied Main folder name: nssm-2.24-101-g897c7ad122331 -----> Destination drive: D: (Size: 56.29 MB)
+
+Number of subfolders: 4
+1: 1111
+2: src
+3: win32
+4: win64
+
+Number of files in folder: 42
+1: Ahmyth-aligned-debugSigned.apk -----> Destination drive: D: (Size: 15.20 MB)
+2: ChangeLog.txt -----> Destination drive: D: (Size: 8.82 KB)
+3: README.txt -----> Destination drive: D: (Size: 43.30 KB)
+4: server-01.cap -----> Destination drive: D: (Size: 39.68 MB)
+5: src\.gitattributes -----> Destination drive: D: (Size: 22 bytes)
+6: src\account.cpp -----> Destination drive: D: (Size: 12.24 KB)
+7: src\account.h -----> Destination drive: D: (Size: 1.12 KB)
+8: src\console.cpp -----> Destination drive: D: (Size: 829 bytes)
+9: src\console.h -----> Destination drive: D: (Size: 112 bytes)
+10: src\env.cpp -----> Destination drive: D: (Size: 7.23 KB)
+11: src\env.h -----> Destination drive: D: (Size: 597 bytes)
+12: src\event.cpp -----> Destination drive: D: (Size: 3.74 KB)
+13: src\event.h -----> Destination drive: D: (Size: 284 bytes)
+14: src\gui.cpp -----> Destination drive: D: (Size: 58.75 KB)
+15: src\gui.h -----> Destination drive: D: (Size: 405 bytes)
+16: src\hook.cpp -----> Destination drive: D: (Size: 16.25 KB)
+17: src\hook.h -----> Destination drive: D: (Size: 2.97 KB)
+18: src\imports.cpp -----> Destination drive: D: (Size: 3.15 KB)
+19: src\imports.h -----> Destination drive: D: (Size: 1.30 KB)
+20: src\io.cpp -----> Destination drive: D: (Size: 28.16 KB)
+21: src\io.h -----> Destination drive: D: (Size: 1.69 KB)
+22: src\messages.mc -----> Destination drive: D: (Size: 168.09 KB)
+23: src\nssm.cpp -----> Destination drive: D: (Size: 10.95 KB)
+24: src\nssm.h -----> Destination drive: D: (Size: 4.90 KB)
+25: src\nssm.ico -----> Destination drive: D: (Size: 32.04 KB)
+26: src\nssm.rc -----> Destination drive: D: (Size: 67.60 KB)
+27: src\nssm.sln -----> Destination drive: D: (Size: 1.24 KB)
+28: src\nssm.vcproj -----> Destination drive: D: (Size: 17.59 KB)
+29: src\process.cpp -----> Destination drive: D: (Size: 14.79 KB)
+30: src\process.h -----> Destination drive: D: (Size: 1.30 KB)
+31: src\registry.cpp -----> Destination drive: D: (Size: 42.54 KB)
+32: src\registry.h -----> Destination drive: D: (Size: 3.99 KB)
+33: src\resource.h -----> Destination drive: D: (Size: 3.64 KB)
+34: src\service.cpp -----> Destination drive: D: (Size: 86.91 KB)
+35: src\service.h -----> Destination drive: D: (Size: 6.35 KB)
+36: src\settings.cpp -----> Destination drive: D: (Size: 58.22 KB)
+37: src\settings.h -----> Destination drive: D: (Size: 1.75 KB)
+38: src\utf8.cpp -----> Destination drive: D: (Size: 3.50 KB)
+39: src\utf8.h -----> Destination drive: D: (Size: 444 bytes)
+40: src\version.cmd -----> Destination drive: D: (Size: 1.73 KB)
+41: win32\nssm.exe -----> Destination drive: D: (Size: 324.61 KB)
+42: win64\nssm.exe -----> Destination drive: D: (Size: 368.64 KB)
+
+Copied Main folder name: New folder (3) -----> Destination drive: D: (Size: 2.81 MB)
+
+Number of subfolders: 2
+1: New folder (2)
+2: usb_logs
+
+Number of files in folder: 6
+1: 28765-Wallpaper.jpg -----> Destination drive: D: (Size: 1.06 MB)
+2: 28768-Wallpaper1.jpg -----> Destination drive: D: (Size: 1.17 MB)
+3: Capture.PNG -----> Destination drive: D: (Size: 303.94 KB)
+4: tracking.log -----> Destination drive: D: (Size: 20.48 KB)
+5: New folder (2)\Final1.py -----> Destination drive: D: (Size: 10.72 KB)
+6: New folder (2)\passwords.txt -----> Destination drive: D: (Size: 241.95 KB)
+
+
+ Event: USB DEVICE INSERTED
+
+Date/Time: 2023-08-04 13:05:16
+Username/Domain: ECC New PC 4
+Device Drive: USB Mass Storage Device
+Device ID: USB\VID_FFFF&amp;PID_5678\4772511144891596028
+Device Type: USB Mass Storage Device
+
+
+ Event: USB DEVICE INSERTED
+
+Date/Time: 2023-08-04 13:05:16
+Username/Domain: ECC New PC 4
+Device Drive: VendorCo ProductCode USB Device
+Device ID: USBSTOR\DISK&amp;VEN_VENDORCO&amp;PROD_PRODUCTCODE&amp;REV_2.00\4772511144891596028&amp;0
+Device Type: VendorCo ProductCode USB Device
+
+Copied Main folder name: new folder check1255 -----> Destination drive: D: (Size: 0 bytes)
+
+
+ Event: USB DEVICE REMOVED
+
+Date/Time: 2023-08-04 13:05:33
+Username/Domain: ECC New PC 4
+Device Drive: USB Mass Storage Device
+Device ID: USB\VID_FFFF&amp;PID_5678\4772511144891596028
+Device Type: USB Mass Storage Device
+
+
+ Event: USB DEVICE REMOVED
+
+Date/Time: 2023-08-04 13:05:33
+Username/Domain: ECC New PC 4
+Device Drive: VendorCo ProductCode USB Device
+Device ID: USBSTOR\DISK&amp;VEN_VENDORCO&amp;PROD_PRODUCTCODE&amp;REV_2.00\4772511144891596028&amp;0
+Device Type: VendorCo ProductCode USB Device
+
+
